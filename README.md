@@ -21,7 +21,7 @@ Name = "Lokesh"
 who_i_am = ['Coding = Mobile💙']
 Country = "🇮🇳"
 ```
-[![Profile views](https://github.com/Lokiboy11)](https://github.com/Lokiboy11)
+[![Profile views](https://github.com/Lokimux)](https://github.com/Lokimux)
 
 
 <!---
