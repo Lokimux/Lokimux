@@ -86,6 +86,3 @@ You can click the Preview link to take a look at your changes.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
