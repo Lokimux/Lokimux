@@ -16,12 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ### About 🙋🏻‍♂️
-<center>
-<p> 
+
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
-</p>
-</center>
+
+
 ```python
 Name = "Lokesh"
 who_i_am = ['Coding = Mobile💙']
