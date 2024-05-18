@@ -1,3 +1,11 @@
+</p>
+<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" />
+</p>
+
+
+
+
+
 hi- 👋 Hi, I’m @Lokimux
 - 👀 I’m interested in programming ...
 - 🌱 I’m currently learning python and mongo db...
