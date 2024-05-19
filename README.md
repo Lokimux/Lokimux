@@ -31,7 +31,6 @@ Name = "Lokesh"
 who_i_am = ['Coding = Mobile💙']
 Country = "🇮🇳"
 ```
-[![Profile views](https://github.com/Lokimux)](https://github.com/Lokimux)
 
 
 <!---
