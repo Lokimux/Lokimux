@@ -35,11 +35,11 @@ Country = "🇮🇳"
 ```
 
 
--👋 Hi there! I'm Lokesh, a Bachelor of Science student majoring in Electronics and Communication Systems with a passion for programming.
+👋 Hi there! I'm Lokesh, a Bachelor of Science student majoring in Electronics and Communication Systems with a passion for programming.
 
--🔧 I love diving into the world of coding, exploring different languages and technologies to create innovative solutions.
+🔧 I love diving into the world of coding, exploring different languages and technologies to create innovative solutions.
 
--💻 My GitHub is where I showcase my projects, ranging from web development to embedded systems, reflecting my diverse interests and skills.
+💻 My GitHub is where I showcase my projects, ranging from web development to embedded systems, reflecting my diverse interests and skills.
 
 
 
