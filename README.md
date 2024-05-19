@@ -40,14 +40,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
-
-  
-
-
-
 
 
 
