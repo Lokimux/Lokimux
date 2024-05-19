@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### About 🙋🏻‍♂️
-<h1>
+
 
 
 👋 Hi there! I'm Lokesh, a Bachelor of Science student majoring in Electronics and Communication Systems with a passion for programming.
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 💻 My GitHub is where I showcase my projects, ranging from web development to embedded systems, reflecting my diverse interests and skills.
 
-<\h1>
+
 
 
 ```python
