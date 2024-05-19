@@ -39,23 +39,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
-
-
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">A passionate programmer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokimux&label=Profile%20views&color=0e75b6&style=flat" alt="lokimux" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokimux" alt="lokimux" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **lokeshbsc11@gmail.com**
-
-- ⚡ Fun fact **Programming is like moon**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/lokesh._._.07?igsh=mtz3ng4ycxeym29tzw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lokesh._._.07?igsh=mtz3ng4ycxeym29tzw==" height="30" width="40" /></a>
