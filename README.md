@@ -81,7 +81,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokimux&show_icons=true&locale=en&layout=compact" alt="lokimux" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokimux&show_icons=true&locale=en" alt="lokimux" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokimux&" alt="lokimux" /></p>
 
