@@ -9,13 +9,15 @@
 
 
 
-- 👋 Hi, I’m @Lokesh
-- 👀 I’m interested in programming ...
-- 🌱 I’m currently learning python and mongodb...
-- 💞️ I’m looking to collaborate on friends...
-- 📫 How to reach me lokesh2004ecs@gmail.com...
-- 😄 Pronouns: LOKESH...
-- ⚡ Fun fact: programming is like moon...
+
+
+-👋 Hi, I’m Lokesh.👀 
+-I’m interested in programming.
+-🌱 I’m currently learning Python and MongoDB.
+-💞️ I’m looking to collaborate and make friends.
+-📫 You can reach me at lokesh2004ecs@gmail.com.
+-😄 Pronouns: he/him.
+-⚡ Fun fact: Programming is like the moon – full of phases and fascinating discoveries!
 
 <hr>
 
