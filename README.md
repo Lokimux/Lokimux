@@ -73,10 +73,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 </p>
-
-
-
-<hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokimux&layout=compact)
 <hr>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokimux&layout=compact" />
+<hr>
