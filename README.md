@@ -77,10 +77,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <hr>
-*   Compact layout
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?usrname=ffflabs\&layout=compact)
-
-***
 <hr>
 
