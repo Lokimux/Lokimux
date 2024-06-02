@@ -74,6 +74,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 </p>
 <hr>
+<div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokimux&layout=compact" />
+</div>
 <hr>
