@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ```python
 Name = "Lokesh"
 who_i_am = ['Coding = 💙']
-Country = "🇮🇳"
+Country = "INDIA"
 state="Tamil Nadu"
 
 ```
