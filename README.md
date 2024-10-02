@@ -53,11 +53,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokimux&layout=compact" />
 
 
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/lokesh._._.07?igsh=mtz3ng4ycxeym29tzw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lokesh._._.07?igsh=mtz3ng4ycxeym29tzw==" height="30" width="40" /></a>
-</p>
+
 
 <hr>
 
