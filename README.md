@@ -1,22 +1,8 @@
-
-<hr>
-
-- 👋 Hi, I’m @Lokesh
-- 👀 I’m interested in programming ...
-- 🌱 I’m currently learning Python and MongoDB.
-- 💞️ I’m looking to collaborate and make friends.
-- 📫 You can reach me at lokesh2004ecs@gmail.com
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: Programming is like the moon – full of phases and fascinating discoveries!
-<hr>
-
 <!---
 Lokimux/Lokimux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <hr>
-
-
 ### About 🙋🏻‍♂️
 
 ```python
