@@ -14,7 +14,7 @@
 ## 🚀 About Me  
 
 <div align="center">
-🎨 **Python Developer** | 🌟 **Electronics Enthusiast** | 🛠️ **IoT Innovator**  
+🎨 #Python Developer | 🌟 #Electronics Enthusiast | 🛠️ #IoT Innovator  
 </div>
 
 - 🌟 Passionate about **crafting solutions** that merge **technology** and **creativity**.  
