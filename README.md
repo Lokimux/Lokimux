@@ -4,10 +4,12 @@
 </div>
 
 ---
+<center>
+  
 </p>
 <img src="https://github.com/Potential17/Potential17/blob/master/user.gif" />
 </p>
----
+</center>
 
 ## 🚀 About Me  
 
