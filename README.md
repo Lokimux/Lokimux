@@ -1,63 +1,95 @@
-<!---
-Lokimux/Lokimux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<hr>
-
-</p>
-<img src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" />
-</p>
-<hr>
-
-
-<h3> About 🙋🏻‍♂️</h3>
-
-```python
-Name = "Lokesh"
-who_i_am = ['Coding = 💙']
-Country = "INDIA"
-state="Tamil Nadu"
-
-```
-
-
-- 👋 Hi there! I'm Lokesh, a Bachelor of Science student majoring in Electronics and Communication Systems with a passion for programming.
-
-- 🔧 I love diving into the world of coding, exploring different languages and technologies to create innovative solutions.
-
-- 💻 My GitHub is where I showcase my projects, ranging from web development to embedded systems, reflecting my diverse interests and skills.
-
-
-
-
-
-
-
-<!---
-itsyogieu/itsyogieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-<hr>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<hr>
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokimux&layout=compact" /></center>
-
-
-
-
-
-
-
-<hr>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Hi there, I'm Lokesh! 👋  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lokimux&color=brightgreen" alt="Profile Views" />
 </div>
+
+---
+
+## 🚀 About Me  
+
+<div align="center">
+🎨 <b>Full-Stack Developer</b> | 🌟 <b>Electronics Enthusiast</b> | 🛠️ <b>IoT Innovator</b>  
+</div>
+
+- 🌟 Passionate about **crafting solutions** that merge **technology** and **creativity**.  
+- 🛠️ Currently working on **IoT solutions** and **PDF to Word converters using Python**.  
+- 📱 Exploring **Android App Development** for **ESP8266/ESP32** devices.  
+- 🎨 Enthusiastic about **stunning UI/UX designs** using frameworks like `customtkinter`.  
+- 💻 Keen to merge **IoT** with **AI** for building **smarter systems**.
+
+---
+
+## 🔧 Technologies & Tools  
+
+### **Programming Languages**  
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/-MicroPython-004B87?style=for-the-badge&logo=python&logoColor=white" alt="MicroPython"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</div>
+
+### **Technologies & Tools**  
+<div align="center">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+---
+
+## 🌟 Featured Projects  
+
+### 🥗 **Salad Maker (IoT Project)**  
+<div align="center">
+<b>Description:</b> A smart and healthy project that combines IoT with healthy living, automating salad preparation based on user preferences.  
+<b>Tech Stack:</b> Python, MicroPython, ESP32.  
+<a href="https://github.com/Lokimux/Smart-Salad-Maker">🔗 View Repository</a>
+</div>
+
+---
+
+### 📂 **PDF to Word Converter (Python)**  
+<div align="center">
+<b>Description:</b> A powerful tool designed to convert PDF documents to Word seamlessly, showcasing modern solutions with legacy techniques.  
+<b>Tech Stack:</b> Python, File Handling.  
+<a href="https://github.com/Lokimux/PDF-to-Word-Converter">🔗 View Repository</a>
+</div>
+
+---
+
+### 🌐 **IoT Controller App**  
+<div align="center">
+<b>Description:</b> An Android app built to control **ESP8266** Wi-Fi devices remotely, enabling smarter home automation.  
+<b>Tech Stack:</b> Java, Android Studio, ESP8266.  
+<a href="https://github.com/Lokimux/IoT-Controller-App">🔗 View Repository</a>
+</div>
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokimux&show_icons=true&theme=radical" width="45%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokimux&theme=radical" width="45%" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📫 Connect with Me  
+
+<div align="center">
+  <a href="https://github.com/Lokimux"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINK-HERE"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+</div>
+
+---
+
+### ✨ Let's collaborate, innovate, and create amazing projects together! 🌟  
