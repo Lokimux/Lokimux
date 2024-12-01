@@ -54,8 +54,8 @@
 
 ### 🥗 **Salad Maker (IoT Project)**  
 <div align="center">
-**Description:** A smart, healthy project combining IoT with healthy living, automating salad preparation based on user preferences.  
-**Tech Stack:** Python, MicroPython, ESP32.  
+<h2>Description:</h2> A smart, healthy project combining IoT with healthy living, automating salad preparation based on user preferences.  
+<h2>Tech Stack:</h2> Python, MicroPython, ESP32.  
 <a href="https://github.com/Lokimux/Smart-Salad-Maker">🔗 View Repository</a>
 </div>
 
@@ -63,8 +63,8 @@
 
 ### 📂 **PDF to Word Converter (Python)**  
 <div align="center">
-**Description:** A powerful tool to seamlessly convert PDF documents to Word, showcasing modern solutions with legacy techniques.  
-**Tech Stack:** Python, File Handling.  
+<h2>Description:</h2> A powerful tool to seamlessly convert PDF documents to Word, showcasing modern solutions with legacy techniques.  
+<h2>Tech Stack:</h2> Python, File Handling.  
 <a href="https://github.com/Lokimux/PDF-to-Word-Converter">🔗 View Repository</a>
 </div>
 
@@ -72,8 +72,8 @@
 
 ### 🌐 **IoT Controller App**  
 <div align="center">
-**Description:** An Android app to control **ESP8266** Wi-Fi devices remotely, enabling smarter home automation.  
-**Tech Stack:** Java, Android Studio, ESP8266.  
+<h2>Description:</h2> An Android app to control **ESP8266** Wi-Fi devices remotely, enabling smarter home automation.  
+<h2>Tech Stack:</h2> Java, Android Studio, ESP8266.  
 <a href="https://github.com/Lokimux/IoT-Controller-App">🔗 View Repository</a>
 </div>
 
